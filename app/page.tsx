@@ -9,8 +9,8 @@ export default function Home() {
           Your interactive guide to mastering{" "}
           <span className="font-bold">React Hooks</span>
         </p>
-        <button className="px-5 py-2 mt-5 text-amber-50 text-center  bg-neutral-900 rounded-full text-lg font-bold w-fit">
-          Begin Learing
+        <button className="px-6 py-3 mt-5 text-neutral-900 text-center  bg-[#ffc445]  rounded-full text-md font-bold w-fit border-2 border-neutral-900">
+          BEGIN LEARNING
         </button>
       </div>
     </main>
